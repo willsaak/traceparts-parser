@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-chrome_driver_path = 'C:\\Users\\Holmes\\Downloads\\chromedriver_win32\\chromedriver.exe'
+chrome_driver_path = '../chromedriver.exe'
 
 
 class ChromeDriver:
